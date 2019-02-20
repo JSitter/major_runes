@@ -1,0 +1,16 @@
+{
+  "name": "major_runes",
+  "version": "1.0.0",
+  "description": "This simple package takes a string and gives back unicode runes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Runes",
+    "npm",
+    "package."
+  ],
+  "author": "Justin Sitter",
+  "license": "MIT"
+}
